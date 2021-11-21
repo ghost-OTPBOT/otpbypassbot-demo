@@ -20,7 +20,7 @@ Focus on your client while we handle the dirty
 - [x] IT 🇮🇹 
 - [x] CO 🇨🇴  
 
-***Note: Addition countries on request***
+***Note: Additional countries on request only***
 
 **SUPPORTED LANGUAGES:**
 
